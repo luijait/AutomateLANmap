@@ -1,0 +1,4 @@
+# Nmap 7.91 scan initiated Tue Aug  3 11:42:27 2021 as: nmap -sP --min-rate 5000 -oG LANAddrreport 192.168.0.1/24
+Host: 192.168.0.1 (mygpon)	Status: Up
+Host: 192.168.0.2 ()	Status: Up
+# Nmap done at Tue Aug  3 11:42:41 2021 -- 256 IP addresses (2 hosts up) scanned in 14.49 seconds
